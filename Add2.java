@@ -13,5 +13,21 @@ class Add1
         System.out. println(i);
             int j=0xa;
         System.out.println(j);
+        boolean k=false;
+        k=!k;
+        System.out.println(k);
+        int n = 5;
+        if(n%2==0){
+            
+        
+            System.err.println(" the number is even");
+        }
+        else{
+            System.out.println("odd");
+            
+        }
+            int x = 23;
+            System.out.println(x);
+
     }
-}
+        }
