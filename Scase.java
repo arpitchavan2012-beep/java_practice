@@ -10,6 +10,7 @@ switch(i){
              break;
         case 8:
             System.out.println("eight");
+            
          default:
             System.out.println("enter a valid number");
 }
